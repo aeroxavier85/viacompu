@@ -1,0 +1,30 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2020-11-18 08:09:11 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\header_template.php 16
+ERROR - 2020-11-18 08:09:11 --> Severity: Notice --> Undefined index: fotografia C:\wamp\www\viacompu\application\views\backend\header_template.php 23
+ERROR - 2020-11-18 08:09:11 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\header_template.php 28
+ERROR - 2020-11-18 08:09:11 --> Severity: Notice --> Undefined index: apellidos C:\wamp\www\viacompu\application\views\backend\header_template.php 28
+ERROR - 2020-11-18 08:09:11 --> Severity: Notice --> Undefined index: email C:\wamp\www\viacompu\application\views\backend\header_template.php 29
+ERROR - 2020-11-18 08:09:11 --> Severity: Notice --> Undefined index: fotografia C:\wamp\www\viacompu\application\views\backend\sidebar_template.php 7
+ERROR - 2020-11-18 08:09:11 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\sidebar_template.php 10
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\header_template.php 16
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: fotografia C:\wamp\www\viacompu\application\views\backend\header_template.php 23
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\header_template.php 28
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: apellidos C:\wamp\www\viacompu\application\views\backend\header_template.php 28
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: email C:\wamp\www\viacompu\application\views\backend\header_template.php 29
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: fotografia C:\wamp\www\viacompu\application\views\backend\sidebar_template.php 7
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\sidebar_template.php 10
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\header_template.php 16
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: fotografia C:\wamp\www\viacompu\application\views\backend\header_template.php 23
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\header_template.php 28
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: apellidos C:\wamp\www\viacompu\application\views\backend\header_template.php 28
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: email C:\wamp\www\viacompu\application\views\backend\header_template.php 29
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: fotografia C:\wamp\www\viacompu\application\views\backend\sidebar_template.php 7
+ERROR - 2020-11-18 08:09:12 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\sidebar_template.php 10
+ERROR - 2020-11-18 08:09:13 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\header_template.php 16
+ERROR - 2020-11-18 08:09:13 --> Severity: Notice --> Undefined index: fotografia C:\wamp\www\viacompu\application\views\backend\header_template.php 23
+ERROR - 2020-11-18 08:09:13 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\header_template.php 28
+ERROR - 2020-11-18 08:09:13 --> Severity: Notice --> Undefined index: apellidos C:\wamp\www\viacompu\application\views\backend\header_template.php 28
+ERROR - 2020-11-18 08:09:13 --> Severity: Notice --> Undefined index: email C:\wamp\www\viacompu\application\views\backend\header_template.php 29
+ERROR - 2020-11-18 08:09:13 --> Severity: Notice --> Undefined index: fotografia C:\wamp\www\viacompu\application\views\backend\sidebar_template.php 7
+ERROR - 2020-11-18 08:09:13 --> Severity: Notice --> Undefined index: nombres C:\wamp\www\viacompu\application\views\backend\sidebar_template.php 10
